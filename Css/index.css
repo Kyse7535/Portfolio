@@ -101,10 +101,6 @@ main .description h4:hover {
     content: "l";
 }
 
-main .description a {
-    color: #fff;
-}
-
 footer {
     background-color: #2E2E2E;
 }
